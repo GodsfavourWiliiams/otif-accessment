@@ -1,0 +1,56 @@
+.bg-primary-100 {
+    background-color: #4C38EE;
+}
+
+.text-primary-100 {
+    color: #4C38EE;
+}
+
+.bg-light-100 {
+    background-color: #F9FAFD;
+}
+
+.text-light-100 {
+    color: #121212;
+}
+
+.text-light-200 {
+    color: #222222;
+}
+
+.text-primary-200 {
+    color: #0000FF;
+}
+
+.hero {
+    width: 100%;
+    padding-bottom: 130px;
+}
+
+.back-to-top {
+    right: 15px;
+    bottom: 35px;
+}
+
+.border-primary-100 {
+    border-color: #0000FF;
+}
+
+.outline-0 {
+    outline: none;
+}
+
+.pt-10 {
+    padding-top: 60px;
+}
+
+.heading {
+    Font-size: 40px;
+    line-height: 48.52px;
+}
+
+.paragraph {
+    font-size: 18px;
+    line-height: 21.83px;
+    color: #121212;
+}
